@@ -1,0 +1,1 @@
+This is a basic command-line application written in Java that generates strong, random passwords. It's a beginner-friendly project focused on practicing core Java concepts like user input, loops, string manipulation, and random number generation.
